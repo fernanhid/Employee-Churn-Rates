@@ -2,7 +2,7 @@
 
 This notebook details the approaches and the conclusions of how I approached discovering what leads to employee churn rates. The data is made out different employees from 12 different companies. The data we have includes the department they worked in, the date they worked there, whether they quit, years of seniority, and salary.
 
-<b>This notebook covers:</b>
+<b>This notebook covers:</b><br>
 1. Data Cleaning<br>
 2. Data Exploration<br>
 3. Creating a Decision Tree as a Statistical Tool<br>
